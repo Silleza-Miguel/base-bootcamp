@@ -11,3 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+
+
+
+FinalPadri = 0x6228c04f1907D37E749d229E6C05f968f714d4bC
